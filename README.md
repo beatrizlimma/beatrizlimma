@@ -5,9 +5,8 @@
 - 😄 Curto muito product design e desenvolvimento mobile, mas estou me aventurando em todas as áreas
 - ⚡ Fun fact: Já construi e programei um robô mais pesado e maior que eu 
 
-![Beatriz Morais's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizmlima&show_icons=true&theme=omni&include_all_commits=true&count_private=true)
+![Beatriz Morais's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizmlima&theme=omni)
 ![Beatriz Morais's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmlima&layout=compact&theme=omni&langs_count=16)
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bia-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
