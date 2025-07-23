@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Já construi e programei um robô mais pesado e maior que eu 
 
 ![Beatriz Morais's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizmlima&show_icons=true&theme=omni&include_all_commits=true&count_private=true)
-![Beatriz Morais's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmlima&layout=compact&langs_count=16&theme=omni)
+![Beatriz Morais's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmlima&layout=compact&theme=omni&langs_count=16)
 
 
 <div style="display: inline_block"><br>
