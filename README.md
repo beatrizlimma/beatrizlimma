@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Já construi e programei um robô mais pesado e maior que eu 
 
 ![Beatriz Morais's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizmlima&theme=omni)
-![Beatriz Morais's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmlima&layout=compact&theme=omni&langs_count=16)
+![Beatriz Morais's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmlima&layout=compact&theme=omni)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bia-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
