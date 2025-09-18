@@ -1,8 +1,7 @@
-## Oii, muito prazer eu sou a Bia👋
+## Oii, eu sou a Bia👋
 
-- 🌱 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas
-- 🎓 Sou formada no Técnico de Desenvolvimento de Sistemas
-- 😄 Curto muito product design e desenvolvimento mobile, mas estou me aventurando em todas as áreas
+- 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas
+- 🎓 Formada no Técnico em Desenvolvimento de Sistemas
 - ⚡ Fun fact: Já construi e programei um robô mais pesado e maior que eu 
 
 ![Beatriz Morais's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizmlima&theme=omni)
