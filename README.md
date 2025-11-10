@@ -1,9 +1,14 @@
-## Oii, eu sou a Bia👋
+## Hey, I'm Bia👋
 
-- 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 🎓 Formada no Técnico em Desenvolvimento de Sistemas
-- ⚡ Fun fact: Já construi e programei um robô mais pesado e maior que eu 
+<table align="left">
+ <tr><td><img src="united-states-of-america.png" height="30" align="center"><a> </a><a href="https://github.com/beatrizlimma">English</a></td><td><img src="flag_br.png" height="30" align="center"><a> </a><a href="README_pt.md">Português</a></td></tr>
+</table><br/><br/><br/>
 
+- 🌱 I am a student of Systems Analysis and Development
+- 🎓 Completed a Technical Degree in Systems Development
+- 🤖 I am studing and exploring Artificial Intelligence/Machine Learning and Data Science
+- ⚡ Fun fact: I have already built and programmed a robot that is heavier and bigger than me
+- 
 ![Beatriz Morais's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizlimma&theme=omni)
 ![Beatriz Morais's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizlimma&layout=compact&theme=omni)
 
@@ -23,3 +28,9 @@
 
 
 ![Snake animation](https://github.com/beatrizmlima/beatrizmlima/blob/output/github-contribution-grid-snake.svg)
+
+<!--
+<table align="right">
+ <tr><td><img src="united-states-of-america.png" height="30" align="center"><a> </a><a href="https://github.com/NataliaRozario">English</a></td><td><img src="flag_br.png" height="30" align="center"><a> </a><a href="README_pt.md">Português</a></td></tr>
+</table>
+-->
