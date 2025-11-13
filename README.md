@@ -8,7 +8,7 @@
 - 🎓 Completed a Technical Degree in Systems Development
 - 🤖 I am studing and exploring Artificial Intelligence/Machine Learning and Data Science
 - ⚡ Fun fact: I have already built and programmed a robot that is heavier and bigger than me
-- 
+  
 ![Beatriz Morais's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizlimma&theme=omni)
 ![Beatriz Morais's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizlimma&layout=compact&theme=omni)
 
