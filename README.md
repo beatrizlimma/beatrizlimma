@@ -9,8 +9,8 @@
 - 🤖 I am studing and exploring Artificial Intelligence/Machine Learning and Data Science
 - ⚡ Fun fact: I have already built and programmed a robot that is heavier and bigger than me
   
-![Beatriz Morais's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizlimma&theme=omni)
-![Beatriz Morais's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizlimma&layout=compact&theme=omni)
+![Beatriz Lima's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizlimma&theme=omni)
+![Beatriz Lima's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizlimma&layout=compact&theme=omni)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bia-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -27,7 +27,7 @@
 </div>
 
 
-![Snake animation](https://github.com/beatrizmlima/beatrizmlima/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/beatrizlimma/beatrizlimma/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 <table align="right">
