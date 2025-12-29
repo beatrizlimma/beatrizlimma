@@ -6,11 +6,10 @@
 
 - 🌱 I am a student of Systems Analysis and Development
 - 🎓 Completed a Technical Degree in Systems Development
-- 🤖 I am studing and exploring Artificial Intelligence/Machine Learning and Data Science
 - ⚡ Fun fact: I have already built and programmed a robot that is heavier and bigger than me
   
-![Beatriz Lima's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizlimma&theme=omni)
-![Beatriz Lima's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizlimma&layout=compact&theme=omni)
+<!--![Beatriz Lima's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizlimma&theme=omni)-->
+<!--![Beatriz Lima's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizlimma&layout=compact&theme=omni)-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bia-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
